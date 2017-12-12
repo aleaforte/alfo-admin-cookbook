@@ -81,6 +81,7 @@ Berksfile
 Berksfile.lock
 cookbooks/*
 tmp
+dist
 
 # Policyfile #
 ##############
